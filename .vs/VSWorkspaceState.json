@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\e2e",
+    "\\e2e\\src",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\create-product",
+    "\\src\\app\\product-details",
+    "\\src\\app\\product-list",
+    "\\src\\app\\update-product"
+  ],
+  "SelectedNode": "\\src\\app\\update-product\\update-product.component.ts",
+  "PreviewInSolutionExplorer": false
+}

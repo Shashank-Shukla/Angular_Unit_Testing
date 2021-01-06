@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'TestApp1';
+  title = 'Angular + Spring REST API CRUD Session';
 }
